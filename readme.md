@@ -20,3 +20,21 @@ Blue	|34|
 Purple	|35|
 Cyan	|36|
 White	|37|
+
+
+# А тут своя задачка 
+
+
+перекодувати мнемокоди кольорів {red}, {blue} в специфічні коди, які розуміє print
+Для пошуку мнемокоду використаємо функцію find https://www.geeksforgeeks.org/python-string-find/
+s = "Welcome to GeekforGeeks!"
+index = s.find("GeekforGeeks")
+print(index)
+
+Для заміни мнемокоду використаємо функцію Replace https://www.geeksforgeeks.org/python-string-replace/
+s = "Hello World! Hello Python!"
+
+# Replace "Hello" with "Hi"
+s1 = s.replace("Hello", "Hi")
+
+print(s1)
